@@ -6,4 +6,5 @@ Tato větev obsahuje technickou dokumentaci a vizualizaci algoritmu **The Cubic 
 * **Hardware Corridor:** Limition (250–3 000 MB/s).
 * **Labyrint:** Finding in 512MB Codexu.
 * **Master Hash:** Final validation network.
+ 
  viz Cubric Seal_icon https://github.com/fiserjn-ship-it/Bohemiancoin-v2/blob/doc_technical/Cubric%20Seal_icon.png

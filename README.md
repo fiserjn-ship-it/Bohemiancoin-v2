@@ -2,9 +2,9 @@
 
 Tato větev obsahuje technickou dokumentaci a vizualizaci algoritmu **The Cubic Seal**.
 
-![Cubic Seal](./cubic-seal-diagram.png)
 
-### Klíčové vlastnosti:
+### Keys point:
 * **Hardware Corridor:** Limition (250–3 000 MB/s).
 * **Labyrint:** Finding in 512MB Codexu.
 * **Master Hash:** Final validation network.
+ viz Cubric Seal_icon 

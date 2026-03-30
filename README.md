@@ -2,6 +2,7 @@
 
 Tato větev obsahuje technickou dokumentaci a vizualizaci algoritmu **The Cubic Seal**.
 
+https://github.com/fiserjn-ship-it/Bohemiancoin-v2/blob/doc_technical/Cubric%20Seal_icon.png
 
 ### Keys point:
 * **Hardware Corridor:** Limition (250–3 000 MB/s).

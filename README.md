@@ -2,7 +2,7 @@
 
 Tato větev obsahuje technickou dokumentaci a vizualizaci algoritmu **The Cubic Seal**.
 
-![Cubic Seal Diagram] Cubric Seal_icon.png
+img: ![Cubic Seal](./img/cubic-seal-diagram.png)
 
 ### Klíčové vlastnosti:
 * **Hardware Corridor:** Limition (250–3 000 MB/s).

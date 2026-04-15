@@ -8,4 +8,4 @@ This branch contains technical documentation and a visualization of The Cubic Se
 * **Labyrint:** Finding in 512MB Codexu.
 * **Master Hash:** Final validation network.
  
- viz Cubric Seal_icon https://github.com/fiserjn-ship-it/Bohemiancoin-v2/blob/doc_technical/Cubric%20Seal_icon.png
+ viz [Cubric Seal_icon https://github.com/fiserjn-ship-it/Bohemiancoin-v2/blob/doc_technical/Cubric%20Seal_icon.png](https://github.com/fiserjn-ship-it/Bohemiancoin-v2/blob/doc_technical/Cubric_Seal_diagram.png)

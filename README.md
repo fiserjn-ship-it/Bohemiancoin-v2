@@ -1,6 +1,7 @@
 # The Cubic Seal - Geometrický Konsenzus
 
 Tato větev obsahuje technickou dokumentaci a vizualizaci algoritmu **The Cubic Seal**.
+This branch contains technical documentation and a visualization of The Cubic Seal algorithm.
 
 ### Keys point:
 * **Hardware Corridor:** Limition (250–3 000 MB/s).

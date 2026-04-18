@@ -20,5 +20,5 @@ Tato větev obsahuje technickou dokumentaci a vizualizaci algoritmu **The Cubic 
 * **The Sharded Universe (Horizontal Scaling):** *(CZ)* Pokud síť přesáhne kapacitu ~8 milionů uživatelů, 512MB Codex se nenafukuje, ale štěpí do paralelních "Dimenzí". Hardwarové nároky na Lovce (uzly) zůstávají navždy minimální.
    <br>*(EN)* If the network exceeds ~8 million users, the 512MB Codex doesn't inflate but splits into parallel "Dimensions". Hardware requirements for Hunters (nodes) remain strictly minimal forever.</br>
  
- viz https://github.com/fiserjn-ship-it/Bohemiancoin-v2/blob/doc_technical/Cubic%20Seal_diagram_EN.png
- viz https://github.com/fiserjn-ship-it/Bohemiancoin-v2/blob/doc_technical/Cubic%20Seal_diagram_CZ.png
+ viz https://github.com/fiserjn-ship-it/Bohemiancoin-v2/blob/doc_technical/Cubic%20Seal_diagram_EN.png?b
+ viz  <br>  https://github.com/fiserjn-ship-it/Bohemiancoin-v2/blob/doc_technical/Cubic%20Seal_diagram_CZ.png </br>

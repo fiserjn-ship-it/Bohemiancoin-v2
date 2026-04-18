@@ -21,3 +21,4 @@ Tato větev obsahuje technickou dokumentaci a vizualizaci algoritmu **The Cubic 
    <br>*(EN)* If the network exceeds ~8 million users, the 512MB Codex doesn't inflate but splits into parallel "Dimensions". Hardware requirements for Hunters (nodes) remain strictly minimal forever.</br>
  
  viz https://github.com/fiserjn-ship-it/Bohemiancoin-v2/blob/doc_technical/Cubic%20Seal_diagram_EN.png
+ viz https://github.com/fiserjn-ship-it/Bohemiancoin-v2/blob/doc_technical/Cubic%20Seal_diagram_CZ.png

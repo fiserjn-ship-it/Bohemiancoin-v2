@@ -204,4 +204,4 @@ In year 2126: produce your `.cbor`, compare against the Master Hash in any node'
 
 ## License
 
-MIT © Bohemiancoin Contributors
+Jan Fiser

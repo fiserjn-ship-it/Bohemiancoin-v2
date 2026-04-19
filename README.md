@@ -42,7 +42,7 @@ cargo run --release
 ```
 ╔════════════════════════════════════════════════════════════╗
 ║        B O H E M I A N C O I N   prototype  v0.2          ║
-║        Fixed-State Ledger  ·  Cubic Seal PoW               ║
+║        Fixed-State Ledger  ·  Cubic Seal               ║
 ║        Ed25519  ·  BLAKE3  ·  3D geometry                  ║
 ╚════════════════════════════════════════════════════════════╝
 
